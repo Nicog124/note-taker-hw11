@@ -1,0 +1,25 @@
+{
+  "name": "note-taker-hw11",
+  "version": "1.0.0",
+  "description": "Note Taker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicog124/note-taker-hw11"
+  },
+  "author": "Brittany Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicog124/note-taker-hw11/issues"
+  },
+  "homepage": "https://github.com/Nicog124/note-taker-hw11#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
